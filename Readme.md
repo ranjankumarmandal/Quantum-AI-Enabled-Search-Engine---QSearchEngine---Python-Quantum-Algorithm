@@ -6,9 +6,7 @@ This module provides the quantum-AI layer for the Q-HIVE search engine. It imple
 
 ## ⚙️ Requirements
 
-Python ≥ 3.9
-NumPy ≥ 1.23
-Qiskit ≥ 0.45 (optional, only needed for QAOA solver)
+Python ≥ 3.9, NumPy ≥ 1.23, Qiskit ≥ 0.45 (optional, only needed for QAOA solver)
 
 ## Install dependencies
 
