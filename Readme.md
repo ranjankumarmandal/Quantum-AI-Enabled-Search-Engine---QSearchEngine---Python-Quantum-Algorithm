@@ -1,4 +1,4 @@
-# Quantum AI Enabled Search Engine
+# Quantum AI Enabled Search Engine (Python Quantum Algorithm Component)
 
 Python Quantum Component:
 
